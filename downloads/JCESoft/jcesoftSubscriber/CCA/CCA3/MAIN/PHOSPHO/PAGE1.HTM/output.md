@@ -59,7 +59,10 @@
 > 
 > 
 > 
->  combustion reaction, descriptive chemistry, elements, exothermic process, oxygen, phosphorus/phosphorus oxides/phosphoric acid, reactivity - kinetic/thermodynamic stability, redox reaction, spontaneous process
+>  combustion reaction, descriptive chemistry, elements, exothermic process, 
+oxygen, phosphorus/phosphorus oxides/phosphoric acid, 
+reactivity - kinetic/thermodynamic stability, 
+redox reaction, spontaneous process
 >  
 > 
 > 
@@ -110,7 +113,8 @@
 > 
 > 
 > 
-> [Additional still imagesfor this movie](../../STHTM/PHOSPHO/PHOSPHO1.HTM) 
+> [Additional still images
+for this movie](../../STHTM/PHOSPHO/PHOSPHO1.HTM) 
 > 
 > 
 > 
@@ -155,7 +159,8 @@
 > 
 > 
 > 
-> [Additional still imagesfor this movie](../../STHTM/PHOSPHO/PHOSPHO2.HTM) 
+> [Additional still images
+for this movie](../../STHTM/PHOSPHO/PHOSPHO2.HTM) 
 > 
 > 
 > 
@@ -172,9 +177,14 @@
 > 
 >  The white allotrope of phosphorus consists of tetrahedral P
 >  4 
->  molecules. When exposed to air in the dark it glows with greenish light, a phenomenon known as phosphorescence. In moist air, white phosphorus ignites spontaneously at 30
+>  molecules. 
+When exposed to air in the dark it glows with greenish light, 
+a phenomenon known as phosphorescence. 
+In moist air, white phosphorus ignites spontaneously at 30
 >  o 
->  C. The ignition temperature is higher in dry air. White phosphorus is extremely dangerous and toxic-much more so than the black and red allotropes.
+>  C. 
+The ignition temperature is higher in dry air. 
+White phosphorus is extremely dangerous and toxic-much more so than the black and red allotropes.
 >  
 > 
 > 
@@ -291,7 +301,8 @@
 >  [Chemistry Textbooks](../../BOOKS.HTM) 
 >  |
 >  
->  © 1999 Division of Chemical Education, Inc.,American Chemical Society. All rights reserved.
+>  © 1999 Division of Chemical Education, Inc.,
+American Chemical Society. All rights reserved.
 
 
 
