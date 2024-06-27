@@ -5,7 +5,7 @@ import os
 from urllib.parse import urljoin, urlparse
 
 # Function to create directory structure based on URL path
-def create_dir_structure(url, base_dir="downloads"):
+def create_dir_structure(url, base_dir="download"):
     parsed_url = urlparse(url)
     path = parsed_url.path.lstrip('/').rstrip('/')
     dir_path = os.path.join(base_dir, path)
@@ -70,5 +70,5 @@ def process_url(url, base_dir="downloads", base_path="", visited=set()):
         print(f"An error occurred while making the request to {url}: {e}")
 
 # Define the URL of the website to scrape and the base path to limit the scope
-BASE_URL = "https://www.chemedx.org/JCESoft/jcesoftSubscriber/CCA/CCA3/"
+BASE_URL = "https://www.rockmusictimeline.com/"
 process_url(BASE_URL, base_path=BASE_URL)
